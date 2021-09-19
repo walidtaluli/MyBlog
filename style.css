@@ -359,7 +359,7 @@ left: 0;
 }
 
 #services .service-item {
-    flex-basis: 80%;
+    flex-basis: 100%;
     align-items: flex-start;
     justify-content: center;
     flex-direction: column;
